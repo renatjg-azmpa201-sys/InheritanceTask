@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LoginType Task/1.0.0": {
+        "runtime": {
+          "LoginType Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoginType Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

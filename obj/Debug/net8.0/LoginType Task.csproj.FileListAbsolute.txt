@@ -1,0 +1,14 @@
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\bin\Debug\net8.0\LoginType Task.exe
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\bin\Debug\net8.0\LoginType Task.deps.json
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\bin\Debug\net8.0\LoginType Task.runtimeconfig.json
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\bin\Debug\net8.0\LoginType Task.dll
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\bin\Debug\net8.0\LoginType Task.pdb
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\obj\Debug\net8.0\LoginType Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\obj\Debug\net8.0\LoginType Task.AssemblyInfoInputs.cache
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\obj\Debug\net8.0\LoginType Task.AssemblyInfo.cs
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\obj\Debug\net8.0\LoginType Task.csproj.CoreCompileInputs.cache
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\obj\Debug\net8.0\LoginType Task.dll
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\obj\Debug\net8.0\refint\LoginType Task.dll
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\obj\Debug\net8.0\LoginType Task.pdb
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\obj\Debug\net8.0\LoginType Task.genruntimeconfig.cache
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\obj\Debug\net8.0\ref\LoginType Task.dll
