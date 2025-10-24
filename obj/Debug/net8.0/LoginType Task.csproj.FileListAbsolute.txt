@@ -12,3 +12,4 @@ C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\obj\Debu
 C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\obj\Debug\net8.0\LoginType Task.pdb
 C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\obj\Debug\net8.0\LoginType Task.genruntimeconfig.cache
 C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\obj\Debug\net8.0\ref\LoginType Task.dll
+C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\obj\Debug\net8.0\LoginType Task.sourcelink.json

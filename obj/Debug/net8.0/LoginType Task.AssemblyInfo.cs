@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginType Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15c60d5911bd820333e0fd7c20a82a2eaffd50f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginType Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginType Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

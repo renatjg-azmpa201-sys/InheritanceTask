@@ -33,7 +33,7 @@ namespace LoginType_Task
         {
             while (true)
             {
-                // Treat null/whitespace as invalid and prompt again
+                
                 if (!string.IsNullOrWhiteSpace(username) && username.Length > 6 && !username.Contains(' '))
                 {
                     Username = username;
@@ -48,7 +48,7 @@ namespace LoginType_Task
         {
             while (true)
             {
-                // Treat null/whitespace as invalid and prompt again
+                
                 if (!string.IsNullOrWhiteSpace(password) && password.Length > 6 && !password.Contains(' ') && password.Any(char.IsUpper) && password.Any(char.IsDigit))
                 {
                     Password = password;

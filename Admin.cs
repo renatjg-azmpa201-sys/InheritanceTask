@@ -9,7 +9,7 @@ namespace LoginType_Task
         public bool IsSuperAdmin { get; set; }
         public string Section { get; set; }
 
-        // Constructor – bütün dəyərlər mütləq
+        
         public Admin(string username, string password, string email, bool isSuperAdmin, string section)
             : base(username, password, email)
         {
@@ -17,7 +17,7 @@ namespace LoginType_Task
             Section = section ?? throw new ArgumentException("Section cannot be empty");
         }
 
-        // Admin məlumatlarını göstərən metod
+        
         public void GetInfo()
         {
             Console.WriteLine("=== Admin Information ===");
@@ -28,7 +28,7 @@ namespace LoginType_Task
             Console.WriteLine($"Section: {Section}");
         }
 
-        // İstifadəçidən admin məlumatlarını soruşan metod
+        
         public static Admin CreateAdminFromInput()
         {
             User temp = new User("", "", "");
@@ -56,7 +56,7 @@ namespace LoginType_Task
             }
             else if (answer == "false")
             {
-                Console.WriteLine("Okay next step =>"); 
+                Console.Write("Okay next step =>"); 
                 break;
                 }
             else
@@ -76,7 +76,7 @@ namespace LoginType_Task
                 Console.WriteLine("Invalid input. Please enter true or false.");
             }
 
-            // Section soruşulur
+            
             string section;
             while (true)
             {
@@ -92,3 +92,5 @@ namespace LoginType_Task
         }
     }
 }
+
+//C:\Users\vivex\Desktop\İnheritation task\LoginType Task\LoginType Task\LoginType Task.csproj
